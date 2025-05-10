@@ -1,3 +1,4 @@
+
 body {
   background-color: #0d0d0d;
   color: #e0e0e0;
@@ -5,6 +6,16 @@ body {
   margin: 0;
   padding: 2rem;
   line-height: 1.6;
+}
+
+header {
+  color: #00ffff;
+  text-align: center;
+  border-bottom: 2px solid #00ffff33;
+  padding-bottom: 0.3em;
+  margin-top: 2rem;
+  text-decoration: underline;
+  font-weight: bold;
 }
 
 h1, h2, h3 {
