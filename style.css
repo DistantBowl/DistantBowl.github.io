@@ -32,6 +32,7 @@ header h1 {
   letter-spacing: 0.15em;
   text-shadow: 0 0 10px #ff0033aa, 0 0 5px #990000aa;
   margin: 0;
+  text-wrap: pretty;
 }
 
 header p {
