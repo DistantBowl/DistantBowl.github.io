@@ -26,13 +26,12 @@ header {
 
 header h1 {
   font-family: 'Orbitron', sans-serif;
-  font-size: 3rem;
+  font-size: calc(1vw+1vh)rem;
   color: #ff0033;
   text-transform: uppercase;
   letter-spacing: 0.15em;
   text-shadow: 0 0 10px #ff0033aa, 0 0 5px #990000aa;
   margin: 0;
-  text-wrap: pretty;
 }
 
 header p {
